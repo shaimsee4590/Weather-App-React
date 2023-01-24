@@ -1,0 +1,62 @@
+.wetherBg{
+    background: url("./image/pexels-lumn-1410224.jpg");
+    /* background: url("./image/pexels-tom-verdoot-1530212.jpg"); */
+    height: 45vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+border-radius: 10px;
+ 
+    
+   
+}
+
+  .heading{
+  
+    color:rgb(71, 34, 34);
+    font-weight: 50;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+  }
+  .wetherResultBox{
+   margin:auto;
+    width: 500px;
+    height: 300px;
+  }
+  
+    
+  
+  .weathorIcon{
+    margin-top: 2rem;
+    width: 100px;
+    height: 100px;
+  }
+  .weathorCity{
+    font-size: 35px;
+  }
+  .weathorTemp{
+    font-size:55px;
+    font-weight: 700;
+  }
+  .form-control{
+    width: 20rem;
+    margin-left: 2rem;
+
+  }
+  .btn {
+    width: 20rem;
+    margin-left: 2rem;
+  }
+  
+.shadow {
+    background-image: url(./image/ww.jpg);
+    margin-left: 40rem;
+    height: 20rem;
+    width: 30rem;
+    background-size: cover;
+}
+
